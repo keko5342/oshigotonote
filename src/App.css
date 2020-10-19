@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: row;
+}
+
+.App-bar {
+  background-color: #282c34;
+  width: 60px;
+  height: 100vh;
+}
+
+.Main-content {
+  background-color: aquamarine;
+  flex: 1;
+  height: 100vh;
+}
